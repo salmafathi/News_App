@@ -1,16 +1,3 @@
 # newsapp
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Simple Browse news in Business,Science and Sports in EGYPT using newsapi.org/
+![242405499_418921149651213_7253673059407182835_n](https://user-images.githubusercontent.com/11964219/134269421-6175c4ae-8034-4174-afcb-8f86442828a3.jpg)
